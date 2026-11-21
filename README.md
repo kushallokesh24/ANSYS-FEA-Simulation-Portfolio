@@ -2,7 +2,7 @@
 
 **Author:** Kushal L (`@kushallokesh24` | `@kushaldeaignme`)  
 **Institution:** Department of Mechanical Engineering, Malnad College of Engineering, Hassan  
-**Portfolio Website:** [https://github.io](https://github.io)
+**Portfolio Website:** [https://github.io](@kushallokesh24`)
 
 ---
 
